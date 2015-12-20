@@ -1,0 +1,5 @@
+- Janice Wildrick
+- St. Louis
+- Fritos
+- Reading
+- Favoriate color: indigo

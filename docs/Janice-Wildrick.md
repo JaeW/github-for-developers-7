@@ -2,4 +2,5 @@
 - St. Louis
 - Fritos
 - Reading
-- Favoriate color: indigo
+- Favorite color: indigo
+- Favorite town:  St. Louis
